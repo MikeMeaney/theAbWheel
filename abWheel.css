@@ -1,0 +1,15 @@
+body {
+	font-size: 30pt;
+}
+
+.goalBlock{
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+	color: #ffffff;
+	display: inline;
+	min-width: 30px;
+	min-height: 30px;
+	background-color: #000000;
+	border-width: 5px;
+	border-color: #444444
+}
